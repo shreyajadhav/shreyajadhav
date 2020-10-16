@@ -1,5 +1,5 @@
 # Hi there 👋
-## I am Shreya Jadhav, I am a front-end developer. 
+## I am Shreya Jadhav, I am currently in 3rd year pursuing computer science engineering at KLS Gogte Institute of Technology, Belagavi.
 <!--
 **shreyajadhav/shreyajadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
